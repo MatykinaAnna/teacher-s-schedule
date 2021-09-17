@@ -1,0 +1,60 @@
+
+.students{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70%;
+    overflow: auto;
+}
+
+.students>div{
+    display: flex;
+
+}
+
+.students>div>.card{
+    border-radius: 15px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #ffffff;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80%;
+    margin-right: 5%;
+}
+.students>div>button>img{
+    height: 40px;
+    width: auto;
+}
+
+
+
+.interested{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70%;
+    overflow: auto;
+}
+
+.interested>div{
+    display: flex;
+
+}
+
+.interested>div>.card{
+    border-radius: 15px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #ffffff;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 80%;
+    margin-right: 5%;
+}
+.interested>div>button>img{
+    height: 40px;
+    width: auto;
+}

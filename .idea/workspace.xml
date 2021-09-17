@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20548938-81e2-4b50-90c2-3748128b0a44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qc1jhEY4bv9tNaCy7yQjpXn90I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/tutor" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\tutorPhon\vendor\tutor" />
+      <recent name="D:\OpenServer\domains\tutorPhon\css\tutorProfile" />
+      <recent name="D:\OpenServer\domains\tutorPhon\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\tutorPhon\img\tutor" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20548938-81e2-4b50-90c2-3748128b0a44" name="Default Changelist" comment="" />
+      <created>1617364201605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617364201605</updated>
+      <workItem from="1617364203082" duration="14463000" />
+      <workItem from="1617540345091" duration="12037000" />
+      <workItem from="1617725273175" duration="12754000" />
+      <workItem from="1618297358300" duration="7599000" />
+      <workItem from="1618310085739" duration="5044000" />
+      <workItem from="1618415888048" duration="4663000" />
+      <workItem from="1618490854893" duration="5429000" />
+      <workItem from="1618650512587" duration="24089000" />
+      <workItem from="1618818654422" duration="7728000" />
+      <workItem from="1618927804034" duration="4116000" />
+      <workItem from="1619258612525" duration="4640000" />
+      <workItem from="1620822797341" duration="5766000" />
+      <workItem from="1620908011577" duration="7666000" />
+      <workItem from="1621071895744" duration="6779000" />
+      <workItem from="1621178604085" duration="827000" />
+      <workItem from="1621874109102" duration="3173000" />
+      <workItem from="1621967029375" duration="9000" />
+      <workItem from="1622121861824" duration="6831000" />
+      <workItem from="1622478344965" duration="6928000" />
+      <workItem from="1622558186246" duration="6576000" />
+      <workItem from="1622703808287" duration="10138000" />
+      <workItem from="1623673231714" duration="2485000" />
+      <workItem from="1624899837664" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="258" key="#Inspections" timestamp="1619266165307">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="586" y="258" key="#Inspections/0.0.1920.1160@0.0.1920.1160" timestamp="1619266165307" />
+    <state x="715" y="381" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622125859242">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="715" y="381" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1622125859242" />
+    <state x="947" y="489" key="FileChooserDialogImpl" timestamp="1624899856870">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="947" y="489" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1624899856870" />
+    <state x="757" y="302" key="NewPhpClassDialog" timestamp="1617437070291">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="757" y="302" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1617437070291" />
+    <state x="794" y="503" key="NewPhpFileDialog" timestamp="1622480292432">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="794" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1622480292432" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1617639056353">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1617639056353" />
+  </component>
+</project>

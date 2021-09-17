@@ -1,0 +1,71 @@
+.calendar>.head{
+    display: flex;
+    padding: 12px;
+    justify-content: space-between;
+    background: #55E5FA;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border: solid 1px transparent;
+}
+
+.calendar>.body{
+    display: flex;
+    flex-direction: column;
+    height: 330px;
+    background: #DFFBFF;
+    justify-content: space-between;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: solid 1px;
+    border-color: #55E5FA;
+}
+
+.calendar>.head>div{
+    display: flex;
+    flex-direction: column;
+}
+.calendar>.head>div>.months{
+    font-size: 20px;
+
+}
+.calendar>.head>div>.year{
+    font-size: 14px;
+    margin-left: 30%;
+}
+
+.calendar>.body>.days{
+    font-size: 20px;
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+.calendar>.body>.calendarDate{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 3%;
+}
+.calendar>.body>.calendarDate>div{
+    display: flex;
+    height: 16%;
+}
+.calendar>.body>.calendarDate>div>div{
+    height: 100%;
+    width: 13%;
+    border-radius: 15px;
+    border: solid 1px;
+    border-color: #55E5FA;
+    background: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 48px
+}
+.calendar>.body>.calendarDate>div>div.toDay{
+    background: #55E5FA;
+}
+.calendar>.body>.calendarDate>div>div:hover{
+    background: #DFFBFF;
+}

@@ -1,0 +1,74 @@
+body{
+
+}
+
+.container{
+	padding-right: 5%;
+	padding-left: 5%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100vh;
+}
+
+.date{
+	border-radius: 15px;
+	border: solid 1px transparent;
+	border-color: #BDFFFFFF;
+	background: #BDFFFFFF;
+	height: 25px;
+	width: 50%;
+	text-align: center;
+	font-size: 18px;
+	margin-left: 25%;
+	margin-top: 5%;
+}
+
+.tableShedule>div{
+	display: flex;
+}
+
+.time{
+	border-radius: 15px;
+	border: solid 1px transparent;
+	border-color: #55E5FA;
+	background: #ffffff;
+	height: 25px;
+	width: 25%;
+	font-size: 18px;
+	margin-top: 22px;
+	text-align: center;
+}
+.lesson{
+	display: flex;
+	width: 75%;
+}
+.lesson>div{
+	border-radius: 15px;
+	border: solid 1px transparent;
+	border-color: #55E5FA;
+	background: #55E5FA;
+	height: 40px;
+	text-align: center;
+	margin-left: 15%;
+	margin-top: 15px;
+	width: 90%;
+}
+.lesson>button{
+	margin-top: 17px;
+}
+
+.buttons{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 5%;
+}
+button {
+	padding: 0;
+	border: none;
+	font: inherit;
+	color: inherit;
+	background-color: transparent;
+	cursor: pointer;
+}
+

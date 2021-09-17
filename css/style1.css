@@ -1,0 +1,49 @@
+body{
+	background-color: #BDFFFFFF;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	margin-top: 60%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+
+.input{
+	test-decoration: none;
+	border-radius: 15px;
+	border-color: #55E5FA;
+	height: 25px;
+	margin-bottom: 3%;
+	text-align: center;
+	font-size: 20px;
+}
+
+button {
+    font-family: 'Montserrat Alternates';
+    padding: 0;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+.btn {
+    height: 35px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10%;
+    border: solid 1px transparent;
+    color: #252525;
+    border-color: #55E5FA;
+    background-color: #55E5FA;
+    border-radius: 15px;
+    font-size: 20px;
+}
+.container>span{
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+}

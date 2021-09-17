@@ -1,0 +1,63 @@
+.messenger{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 70%;
+}
+
+
+.messenger>.msges{
+    overflow-y: auto;
+    hight: 100%;
+}
+
+.messenger>.msges>.msgStudent{
+    border-radius: 20px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #DFFBFF;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 70%;
+    margin-left: 23%;
+}
+
+.messenger>.msges>.msgStudent>div>.text{
+    font-size: 18px;
+}
+.messenger>.msges>.msgStudent>.sender, .messenger>.msges>.msgStudent>.msg-date{
+    font-size: 12px;
+    font-style: italic;
+    text-align: right;
+}
+
+.messenger>.msges>.msgTutor{
+    border-radius: 20px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #ffffff;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 70%;
+}
+
+.messenger>.msges>.msgTutor>div>.text{
+    font-size: 18px;
+}
+.messenger>.msges>.msgTutor>.sender, .messenger>.msges>.msgTutor>.msg-date{
+    font-size: 12px;
+    font-style: italic;
+    text-align: right;
+}
+
+.messenger>div>.text{
+    /*width: 100%;*/
+    /*height: 80%;*/
+    border-color: #55E5FA;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 100%;
+
+}
+

@@ -1,0 +1,76 @@
+.container {
+    padding-right: 5%;
+    padding-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.date {
+    border-radius: 15px;
+    border: solid 1px transparent;
+    border-color: #BDFFFFFF;
+    background: #BDFFFFFF;
+    height: 25px;
+    width: 50%;
+    text-align: center;
+    font-size: 18px;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.buttonsLessons>div{
+    border-radius: 20px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #ffffff;
+    height: 40px;
+    font-size: 24px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.timeOfLessons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.timeOfLessons>div{
+    display: flex;
+    flex-direction: column;
+}
+
+.timeOfLessons>div>div.choiceTime{
+    background: #55E5FA;
+}
+
+.timeOfLessons>div>div{
+    border-radius: 15px;
+    border: solid 1px transparent;
+    border-color: #55E5FA;
+    background: #ffffff;
+    height: 25px;
+    width: 80px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 15px;
+}
